@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Hernández</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina.</h3>
 
-<p>Hello! 😃 I'm Felipe, an 18 years old boy originated from Argentina, San Juan. I'm a self-taught artist who is now currently studying to be a Front-End developer. 🎨
+<p>Hello! 😄 I'm Felipe, an 18 years old boy originated from Argentina, San Juan. I'm a self-taught artist who is now currently studying to be a Front-End developer. 🎨
 
 I'm someone heavily interested in web design and honestly anything art-related. I consider myself someone highly positive and also highly sociable, someone who loves teamwork. 
 
@@ -13,7 +13,7 @@ I'm full of I believe extravagant ideas and I'm willing to share them with every
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/felipe-hernandez-72037b248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-hernandez-72037b248/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-hernandez-72037b248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-hernandez-72037b248/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
