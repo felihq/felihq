@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Hernández</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina.</h3>
 
-<p>Hello! 😄 I'm Felipe, an 18 years old boy originated from Argentina, San Juan. I'm a self-taught artist who is now currently studying to be a Front-End developer. 🎨
+<p>Hello! 😃 I'm Felipe, an 18 years old boy originated from Argentina, San Juan. I'm a self-taught artist who is now currently studying to be a Front-End developer. 🎨
 
 I'm someone heavily interested in web design and honestly anything art-related. I consider myself someone highly positive and also highly sociable, someone who loves teamwork. 
 
